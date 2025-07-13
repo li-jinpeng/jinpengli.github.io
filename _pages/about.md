@@ -2,7 +2,6 @@
 permalink: /
 title: "Personal Profile​​"
 author_profile: true
-
 ---
 
 #### Academic Identity  
